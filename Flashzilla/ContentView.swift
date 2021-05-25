@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import CoreHaptics
 
 struct ContentView: View {
 //    @State private var currentAmount: CGFloat = 0
